@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "29388491207",
+    "firebase_url": "https://deto-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "deto-app",
+    "storage_bucket": "deto-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29388491207:android:01d97b9033eda6fbed71e2",
+        "android_client_info": {
+          "package_name": "com.deto.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29388491207-ribh1ei18icgt9jpa22nqj0p1v7sitfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8SAGzkTCPMYyO4DqUZhatBbYqpsHOTSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29388491207-ribh1ei18icgt9jpa22nqj0p1v7sitfe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "29388491207-do880gfr266ffjvrsdonsh3tkm61bc9d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deto.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

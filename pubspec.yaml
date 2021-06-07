@@ -1,0 +1,52 @@
+name: deto
+description: Democratic event diary and organizer
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.3
+  firebase_auth: ^1.3.0
+  firebase_core: ^1.2.1
+  firebase_database: ^7.1.0
+  firebase_storage:
+  cloud_firestore:
+  provider: ^5.0.0
+  flutter_custom_clippers: ^1.1.2
+  progress_dialog: ^1.2.4
+  connectivity: ^3.0.6
+  shared_preferences: ^2.0.6
+  argon_buttons_flutter: ^1.1.0
+  animated_text_kit: ^4.2.1
+  blurrycontainer: ^0.0.1
+  image_picker:
+  google_fonts:
+  toast:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - images/
+
+  fonts:
+      - family: Storopia
+        fonts:
+          - asset: fonts/Storopia.ttf
+
+      - family: ImpactLabel
+        fonts:
+          - asset: fonts/Impact_Label.ttf
+
+      - family: ImpactLabelReversed
+        fonts:
+          - asset: fonts/Impact_Label_Reversed.ttf
